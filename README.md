@@ -1,5 +1,5 @@
 
-![Logo](https://github.com/Pranshu1902/JobPulse-fe/assets/70687348/3e0f3433-9f76-4485-bfaa-40d2e16369d3)
+![Logo](https://github.com/yuvrajsingh833/JobPulse/blob/main/assets/logo.png)
 
 
 # JobPulse
