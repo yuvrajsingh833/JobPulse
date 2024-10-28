@@ -78,7 +78,7 @@ Backend Repository:(https://github.com/yuvrajsingh833/JobPulse)
 
 ## Deployment
 
-Production: https://jobpulse-fe.vercel.app/
+Production: https://job-pulse-eight.vercel.app
 
 ## Color Reference
 
