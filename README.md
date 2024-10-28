@@ -74,7 +74,7 @@ Refer the `.env.example` file in root directory of the project.
 
 Documentation: https://jobpulse.up.railway.app/docs/
 
-Backend Repository:(https://github.com/yuvrajsingh833/JobPulse)
+Backend Repository:https://github.com/yuvrajsingh833/JobPulse
 
 ## Deployment
 
